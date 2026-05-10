@@ -64,8 +64,8 @@ A modern, AI-powered expense tracking application built with Streamlit that help
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Spritan/expense_tracker
-   cd expense_tracker
+   https://github.com/Karushna/finrak
+   cd finrak
    ```
 
 2. **Install Dependencies:**
